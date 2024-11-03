@@ -1,2 +1,2 @@
-# Spotify-Clone
+# Music-Player
  
