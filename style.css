@@ -723,6 +723,7 @@ footer .playlist{
 		position: absolute;
 		top: 102px;
 		right: 20px;
+		
 		width: 60%;
 		display: none;
 		z-index: 1;
